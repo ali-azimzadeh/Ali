@@ -8,5 +8,9 @@ namespace Github_Test
 {
     class Class1
     {
+        public Class1()
+        {
+
+        }
     }
 }
